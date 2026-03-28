@@ -389,8 +389,8 @@ sections:
       type: TitleBlock
     subtitle: or else
     text: >
-      People that join BCP report a 24% increase in happiness and a 13% increase
-      in good fortune. 
+      People that join report a 24% increase in happiness and a 13% increase in
+      good fortune.
     media:
       fields:
         - name: name
