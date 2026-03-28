@@ -387,7 +387,7 @@ sections:
       text: Join today
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: or else
     text: >
       People that join BCP report a 24% increase in happiness and a 13% increase
       in good fortune. 
